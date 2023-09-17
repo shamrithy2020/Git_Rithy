@@ -174,7 +174,7 @@ $('#EndDate').datetimepicker({
   timepicker:false,
   format:'d/m/Y',
   formatDate:'Y/m/d',
-  minDate:'2015/01/01', // yesterday is minimum date
+  minDate:'2014/01/01', // yesterday is minimum date
   maxDate:'2030/01/01' // and tommorow is maximum date calendar
 });
 
